@@ -1,0 +1,4 @@
+ID,RecipeName,OutputItem,OutputQuantity,Ingredients
+Recipe_Axe,도끼 제작,Axe,1,Wood:1;Iron:3
+Recipe_Box,상자 제작,Box,1,Wood:5
+Recipe_Workbench,작업대 제작,Workbench,1,Wood:5;Iron:5

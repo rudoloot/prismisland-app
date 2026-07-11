@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe2f7e7bb73acb542895b44883129b3b, type: 3}
+  m_Name: BasicGun
+  m_EditorClassIdentifier: Assembly-CSharp::PrismIsland.Data.WeaponDataSO
+  id: BasicGun
+  itemName: "\uAD8C\uCD1D"
+  weight: 2
+  icon: {fileID: 0}
+  fallbackColor: {r: 0, g: 0, b: 0, a: 1}
+  equipSlot: 7
+  weaponType: 1
+  combatType: 2
+  damage: 10
+  attackRange: 15
+  attackAngle: 0
+  attackRate: 2
+  maxAmmo: 12
